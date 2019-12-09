@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BreadlyLogin</string>
+    <string name="facebook_app_id">837994199982282</string>
+    <string name="fb_login_protocol_scheme">fb837994199982282</string>
+    <string name="action_settings" />
+    <string name="button">Button</string>
+    <string name="Take_me" />
+    <string name="go_to_quiz_page">Go to Quiz page</string>
+    <string name="bread_page">Bread Page</string>
+</resources>
